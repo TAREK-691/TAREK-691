@@ -81,26 +81,5 @@ Hi! I’m Tarek, a builder who loves coding Messenger bots, designing UIs, and e
 </p>
 ---
 
-🗂️ Highlighted Projects
-
-✨ Messenger Bot Modules — Command handler, role-based permissions, and image card UIs.
-
-🧠 Language & Voice Utilities — Cute Bangla voice, Japanese translate & speak, fun English TTS styles.
-
-🧩 Utility Commands — Polls, world clock, cover generator, and more.
-
-
-
----
-
-📫 Contact
-
-📧 Email: tarekshikdar849@gmail.com
-
-🌍 Portfolio: (add when ready)
-
-
-
----
 
 <p align="center">Made with ❤️ by <b>Tarek</b> • Always building, always learning.</p>
