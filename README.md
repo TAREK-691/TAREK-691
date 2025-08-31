@@ -7,23 +7,18 @@
 </p>
 ---
 
-👤 Owner Info
+## 👤 OWNER INFO
 
-👑 Name: Tarek Shikdar
-
-🏙️ From: Tangail, Bangladesh
-
-🎂 Age: 19
-
-📖 Study: Diploma in Civil Engineering
-
-🧸 Status: Single
-
+- 👑 Name: **Tarek Shikdar**  
+- 🏙️ From: **Tangail, Bangladesh**  
+- 🎂 Age: **19**  
+- 📖 Study: **Diploma in Civil Engineering**  
+- 🧸 Status: **Single**  
 
 
 ---
 
-📌 About Me
+## 📌 About Me
 
 Hi! I’m Tarek, a builder who loves coding Messenger bots, designing UIs, and exploring new tech. Passionate about making tools useful and fun ✨
 
@@ -37,7 +32,7 @@ Hi! I’m Tarek, a builder who loves coding Messenger bots, designing UIs, and e
 
 ---
 
-🌐 Find Me Online
+## 🌐 Find Me Online
 
 <p align="center">
   <a href="https://www.facebook.com/tarek.shikdar.08"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
@@ -48,7 +43,7 @@ Hi! I’m Tarek, a builder who loves coding Messenger bots, designing UIs, and e
 </p>
 ---
 
-🧰 Tech & Tools
+## 🧰 Tech & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933"/>
@@ -64,7 +59,7 @@ Hi! I’m Tarek, a builder who loves coding Messenger bots, designing UIs, and e
 </p>
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=TAREK-691&show_icons=true&hide_border=true" alt="GitHub Stats"/>
@@ -74,7 +69,7 @@ Hi! I’m Tarek, a builder who loves coding Messenger bots, designing UIs, and e
 </p>
 ---
 
-🏆 Achievements
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TAREK-691&theme=flat&no-frame=true&margin-w=5&margin-h=5" alt="trophies"/>
