@@ -41,6 +41,7 @@ Hi! I’m Tarek, a builder who loves coding Messenger bots, designing UIs, and e
   <a href="https://www.tiktok.com/@_tarek.0"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
   <a href="https://wa.me/+8801785557724"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
+
 ---
 
 ## 🧰 Tech & Tools
@@ -57,6 +58,7 @@ Hi! I’m Tarek, a builder who loves coding Messenger bots, designing UIs, and e
   <img src="https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC"/>
   <img src="https://img.shields.io/badge/Design-Canva-informational?style=flat&logo=canva&logoColor=white&color=00C4CC"/>
 </p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -67,6 +69,7 @@ Hi! I’m Tarek, a builder who loves coding Messenger bots, designing UIs, and e
 </p><p align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=TAREK-691&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 ---
 
 ## 🏆 Achievements
@@ -74,6 +77,7 @@ Hi! I’m Tarek, a builder who loves coding Messenger bots, designing UIs, and e
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TAREK-691&theme=flat&no-frame=true&margin-w=5&margin-h=5" alt="trophies"/>
 </p>
+
 ---
 
 
