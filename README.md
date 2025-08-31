@@ -1,13 +1,12 @@
-<!-- PROFILE README: Tarek Shikdar --><h1 align="center">🤖 Tarek's Bot • Tarek Shikdar</h1><p align="center">
+<!-- PROFILE README: Tarek Shikdar --><h1 align="center"> • Tarek Shikdar</h1><p align="center">
   <img src="https://drive.google.com/uc?export=view&id=18HWTegV6E4J6-DPpGYvpGuFKt5V2hHhK" width="450" alt="Tarek's Bot Logo"/>
 </p><p align="center">
   <a href="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME" target="_blank"><img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME"></a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers" target="_blank"><img alt="Followers" src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat"></a>
   <img alt="Profile Last Updated" src="https://img.shields.io/badge/Updated-Today-success"/>
 </p>
----
-
-👤 Owner Info
+--- 
+##  👤 Owner Info
 
 👑 Name: Tarek Shikdar
 
@@ -17,7 +16,7 @@
 
 📖 Study: Diploma in Civil Engineering
 
-🧸 Status: Single
+🧸 Status: **Single**
 
 
 
@@ -68,7 +67,7 @@ Hello! I’m Tarek, a curious builder who loves turning ideas into handy Messeng
 
 📊 GitHub Stats
 
-> Replace YOUR_GITHUB_USERNAME below with your actual username (e.g., TarekShikdar).
+> Replace YOUR_GITHUB_USERNAME below with your actual username (e.g.,TAREK-691).
 
 
 
